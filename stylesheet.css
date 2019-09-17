@@ -1,0 +1,34 @@
+body
+{
+	background-color:gold;
+}
+img
+{
+	width: 100%;
+}
+#content
+{
+	width: 40%;
+	margin: auto;
+}
+#text
+{
+	color:blue;
+	background-color: gold;
+}
+#list
+{
+	color:blue;
+	background-color: gold;
+}
+#button1
+{
+	width: 100%;
+}
+h1
+{
+	color:blue;
+	width: 70%;
+	margin: auto;
+	font-size: 50pt;
+}

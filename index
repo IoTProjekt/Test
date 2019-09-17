@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+	<head>
+			<title> My first HTML </title>
+			<link rel = "stylesheet" type = "text/css" href ="stylesheet.css">
+			<meta name = "viewport" content = "width = device-width, initial-scale=1">
+			<script type="text/javascript" src="cordova.js"></script>
+	</head>
+	
+<body>
+<p><div id = "content">
+	<h1>Brøndby IF</h1>
+	<br>
+	<p><div id = text>
+		VESTEGNEN HADER fck!!
+	</div>
+	<img src =  "brondby.jpg">
+	
+	<div id = "list">
+		<ul style = "list-style-type:disc;"> 
+		<li> fc BLOD PÅ TRØJEN
+		<li> SOV MED DEN OM NATTEN
+		<li> DEN ER BARE RØD, SÅ RØD
+		<li> DEN ER FULD AF fc BLOD!
+		</ul>
+	</div>
+	<br>
+	<a href = "https://www.brondby.com">
+	<br>
+	<a href = "opgave3HTML.html"> Javascript Exercise </a>
+	<br>
+	<br>
+	<button id = "button1"> Gå til Brøndby's hjemmeside </button>
+	</div>
+</body>
+</html>
